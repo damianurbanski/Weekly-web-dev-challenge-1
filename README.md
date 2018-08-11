@@ -2,4 +2,4 @@
 coding psd->html
 
 ## Live
-https://damianurbanski.github.io/challenge-1/
+https://damianurbanski.github.io/challenge1/
